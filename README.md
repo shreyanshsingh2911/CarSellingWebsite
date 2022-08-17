@@ -1,4 +1,7 @@
 # CarSellingWebsite
+1. Technologies
+● Frontend - HTML, CSS, JS
+
 ![image](https://user-images.githubusercontent.com/45158487/125452731-6ff1db95-2455-46ac-9da7-713edd9802ac.png)
 
 
